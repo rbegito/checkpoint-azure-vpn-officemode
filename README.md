@@ -11,3 +11,5 @@ With that the address pool is advertised via BGP for the peered vnets and conseq
 
    
 ![AMS_Network_public_v0](https://github.com/rbegito/checkpoint-azure-vpn-officemode/assets/25324391/a2c43d73-f8ee-437f-928b-40c74dbabaa3)
+
+SOON I will update with the scrips...
