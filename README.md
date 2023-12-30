@@ -1,4 +1,5 @@
-# checkpoint-azure-vpn-officemode
+# Checkpoint Cloudguard on Azure vpn-officemode
+
 Advertising checkpoint VPN address pool to peered VNETs and ER
 
 When you deploy checkpoint CloudGuard as a point to site VPN provider on Azure hybrid hub&spoke network your environment may require to not do NAT on the Address Pool destinated to the VPN Office Mode clients.
